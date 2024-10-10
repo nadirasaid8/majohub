@@ -1,0 +1,17 @@
+{
+    "use_proxy": false,
+    "auto_complete_task": false,
+    "auto_play_game": false,
+  
+    "min_point_holdcoin": 800,
+    "max_point_holdcoin": 915,
+    "min_point_swipecoin": 1000,
+    "max_point_swipecoin": 2300,
+  
+    "min_game_delay": 10,
+    "max_game_delay": 15,
+    "account_delay": 5,
+    "wait_time": 3600,
+    "data_file": "data.txt"
+  }
+  
