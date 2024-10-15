@@ -2,7 +2,7 @@
 
 A Python bot for interacting with the M*jor Telegram Bot API. This bot can perform various tasks such as checking in, managing tasks, holding coins, spinning, and retrieving user information.
 
-[TELEGRAM CHANNEL](https://t.me/Deeplchain) | [TWITTER](https://x.com/itsjaw_real)
+[TELEGRAM CHANNEL](https://t.me/Deeplchain) | [CONTACT](https://t.me/imspecials)
 
 ### This bot helpfull? Contributed by buying me a coffee: 
 ```
@@ -152,4 +152,4 @@ python main.py
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For questions or support, please contact [ https://t.me/DeeplChainSup ]
+For questions or support, please contact [ https://t.me/DeeplChain ]
